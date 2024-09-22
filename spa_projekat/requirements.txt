@@ -1,0 +1,13 @@
+streamlit
+gensim
+pyLDAvis
+pandas
+openpyxl
+beautifulsoup4
+EbookLib
+python-docx
+pdfplumber
+pyth
+pylatexenc
+matplotlib
+seaborn
